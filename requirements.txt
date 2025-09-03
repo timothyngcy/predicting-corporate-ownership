@@ -1,0 +1,9 @@
+category_encoders==2.8.0
+imblearn==0.13.0
+matplotlib==3.10.0
+numpy==2.2.2
+pandas==2.2.3
+scipy==1.15.1
+seaborn==0.13.2
+sklearn==1.6.1
+xgboost==2.1.3
